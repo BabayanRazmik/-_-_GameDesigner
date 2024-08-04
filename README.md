@@ -1,5 +1,5 @@
 ## Ссылки на задания
-- [Задание 1: Описание задания]([https://example.com/task1](https://docs.google.com/document/d/1UCkFXc9-ozQoyXa0YCOYY1oALIHO8czV2QGY_6ccd4U/edit))
+- [Задание: [(https://docs.google.com/document/d/1UCkFXc9-ozQoyXa0YCOYY1oALIHO8czV2QGY_6ccd4U/edit)]
 ___________________________
   # **Битва Заключённых**
 
