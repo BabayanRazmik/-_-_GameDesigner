@@ -146,14 +146,12 @@ ___________________________
 - Стоимость лицензии: $20 - $30
 А
 ## 15. Ссылки на задания
-- [Задание 1: Описание задания](https://example.com/task1)
-- [Задание 2: Описание задания](https://example
-
+- [Задание 1: Описание задания]([https://example.com/task1](https://docs.google.com/document/d/1UCkFXc9-ozQoyXa0YCOYY1oALIHO8czV2QGY_6ccd4U/edit))
 
 ## Отправитель
 - Компания: Геомакс Финанс
 - Отправитель: Екатирина (hh.ru)
 - Рекрутор: Александр (telegram)
-- Должность: [Ваша Должность]
-- Контакты: [[Ваш Email или другой контакт](https://hh.ru/vacancy/103564491?from=share_ios)] , [@bingeer]
+- Должность: [Game Designer]
+- Контакты: (https://hh.ru/vacancy/103564491?from=share_ios)] , [@bingeer]
 
